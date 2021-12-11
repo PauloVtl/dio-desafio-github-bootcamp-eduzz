@@ -1,0 +1,5 @@
+git clone = clona o repositório do github.
+git status = mostra o estado atual do repositório, se existe alguma alteração.
+git add . ou -A = adiciona as alterações no repositório local.
+git commit -m = (adiciona uma mensagem/cometário) "Inclusão das anotações do curso de Git/Github"
+git push origin main = envia os commits locais para a nuvem/repositório do github.
